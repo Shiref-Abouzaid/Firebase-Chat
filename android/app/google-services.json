@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269112282429",
+    "project_id": "flash-chat-2844a",
+    "storage_bucket": "flash-chat-2844a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269112282429:android:0db75c93c259a450ee0954",
+        "android_client_info": {
+          "package_name": "co.shiref.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269112282429-46psum7l2o381bpqk39dgufikptjccjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4n1WbkqKJBuglnVKu0qKIwPgRnvT13OA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269112282429-46psum7l2o381bpqk39dgufikptjccjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
